@@ -1,0 +1,8 @@
+"1942rp"
+{
+	"base"		"nutscript"
+	"title"		"1942rp"
+	"author"	"Zoephix"
+	"menusystem" 	"1"
+	"category"	"rp"
+}
